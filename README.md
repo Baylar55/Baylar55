@@ -2,6 +2,7 @@
 <h3 align="center">Backend Developer | .NET</h3>
 
 - 📫 How to reach me **bylrsadiqov@gmail.com**
+- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bylrsadiqov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
